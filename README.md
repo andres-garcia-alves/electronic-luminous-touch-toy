@@ -1,6 +1,6 @@
 # Luminous Touch Toy
 
-Luminous Touch Toy made with NE555 & a piezo-electric sensor, with auto-off functionality.
+Luminous Touch Toy made with NE555 IC and a piezo-electric sensor, with auto-off functionality.
 
 &nbsp;
 
