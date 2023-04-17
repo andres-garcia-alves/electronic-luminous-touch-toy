@@ -1,4 +1,4 @@
-# Luminous Touch Toy v1.0
+# Luminous Touch Toy
 
 Luminous Touch Toy made with NE555 & a piezo-electric sensor, with auto-off functionality.
 
@@ -20,7 +20,7 @@ This project use the following electronic components:
 
 The circuit:
 - When pressing the toy surface it moves the empty pen tubes, making some presure on the piezo-electric.
-- The piezo-electric generates some low voltages on presure, activating the electronic circuit.
+- The piezo-electric generates some voltage on presure, activating the electronic circuit.
 - The NE555 IC handles the 12 seconds enabled delay.
 
 Notes:
