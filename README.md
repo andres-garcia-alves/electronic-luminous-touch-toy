@@ -50,7 +50,7 @@ Notes:
 |-------------------------------------------------|-------------------------------------------------|
 | ![](Resources/25-proyect-final-01.jpg)          | [![](Resources/26-proyect-final-02.jpg)](https://youtu.be/MLIR6YbirFM) |
 
-See 'Rescources' sub-folder for more pictures of the proyect.
+See 'Rescources' sub-folder for more pictures & videos of the project.
 
 &nbsp;
 
@@ -61,4 +61,4 @@ v1.0 (2023.04.17) - Initial release.
 &nbsp;
 
 This source code is licensed under GPL v3.0  
-Please send me your feedback about this app: andres.garcia.alves@gmail.com
+Please send me your feedback about this project: andres.garcia.alves@gmail.com
